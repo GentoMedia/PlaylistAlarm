@@ -48,5 +48,4 @@ print("    ", sleep_time)
 
 sleep(sleep_time.total_seconds())
 
-
-webbrowser.open("https://www.youtube.com/embed/videoseries?list=PLLU7Oh2-moMV2MEeCt6GgXSCCaSlP3LIR&autoplay=1")
+webbrowser.open("https://www.youtube.com/embed/videoseries?list=PLLU7Oh2-moMV2MEeCt6GgXSCCaSlP3LIR&autoplay=1", new=0)
